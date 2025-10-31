@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+
+/* You can still add custom overrides here if you want */
+body {
+  background-color: #f8fafc;
+  font-family: 'Inter', sans-serif;
+}
